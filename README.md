@@ -8,7 +8,7 @@ You can model and play "Stacking Balance Game".
 ![IMG_9562](https://user-images.githubusercontent.com/30834673/81463296-7f79f180-91f3-11ea-8627-7fc10bcd719a.jpg)
 
 # Getting Started
-「MobyDock.stl」をFDM式3Dプリンタ造形(造形角度はそのままでOK)。
+「MobyDock.stl」をFDM式3Dプリンタで造形(造形角度はそのままでOK)。
 
 "MobyDock.stl" FDM type 3D printing.(You can leave the modeling angle as it is.)
 
